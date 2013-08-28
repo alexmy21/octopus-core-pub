@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2013 Lisa Park, Inc. (www.lisa-park.net)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<Grid>
+<Body>
+<B>
+<I PRODUCT_NAME="Поддон полимерный с элементами противоскольжения 02.106.91 С1 (1200х800х160)" PLAN_VALUE="220000" LOWBOUND="0" UPPERBOUND="242000" PRODUCT_ID="dfd9780a-3c3c-4282-9ef5-a11d2f38e7c4"/>
+<I PRODUCT_NAME="Поддон полимерный с элементами противоскольжения 02.104.91.C1 (1200х800х155)" PLAN_VALUE="71000" LOWBOUND="0" UPPERBOUND="78100" PRODUCT_ID="46c25613-39bd-46a6-bbf4-a9057fec0a0c"/>
+<I PRODUCT_NAME="Поддон полимерный с элементами противоскольжения 02.101.91.С1 (1200х800х160)" PLAN_VALUE="16800" LOWBOUND="0" UPPERBOUND="18480" PRODUCT_ID="ad03292a-7bb4-4917-84ae-1a1946d2cbd9"/>
+<I PRODUCT_NAME="Крышка полимерного контейнера 05.010.91" PLAN_VALUE="132000" LOWBOUND="0" UPPERBOUND="145200" PRODUCT_ID="0933de48-0372-4122-a2da-3c0df41f226b"/>
+<I PRODUCT_NAME="Крышка полимерного контейнера 05.011.91" PLAN_VALUE="132000" LOWBOUND="0" UPPERBOUND="145200" PRODUCT_ID="a006a2a9-715d-4d52-9ef2-b729b686a622"/>
+<I PRODUCT_NAME="Крышка полимерного контейнера 05.012.91" PLAN_VALUE="42000" LOWBOUND="0" UPPERBOUND="46200" PRODUCT_ID="edf1e2a1-ec3b-4d53-a388-f8a65c60e94f"/>
+<I PRODUCT_NAME="Крышка полимерного контейнера 05.013.91" PLAN_VALUE="36000" LOWBOUND="0" UPPERBOUND="39600" PRODUCT_ID="4bd6c3b5-bedc-4edd-ac84-0680fd73ce5c"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.401.61 (165х100х75)" PLAN_VALUE="20000" LOWBOUND="0" UPPERBOUND="22000" PRODUCT_ID="ca175736-f6c2-45b0-9dd1-46224379f696"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.402.40 (250х150х130)" PLAN_VALUE="2000" LOWBOUND="0" UPPERBOUND="2200" PRODUCT_ID="ceb0d1a5-65e6-44c3-b135-671fac2dd61b"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.402.61 (250х150х130)" PLAN_VALUE="35000" LOWBOUND="0" UPPERBOUND="38500" PRODUCT_ID="9b30464d-03bc-4246-a095-5f3ed3e2cafb"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.403.61 (350х225х150)" PLAN_VALUE="45000" LOWBOUND="0" UPPERBOUND="49500" PRODUCT_ID="f48fc4a5-9c7e-424c-bee1-0abd31938ac7"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.404.40 (350х225х200)" PLAN_VALUE="7000" LOWBOUND="0" UPPERBOUND="7700" PRODUCT_ID="3675e3ca-1091-4bc8-87ce-b96755c68011"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.404.61 (350х225х200)" PLAN_VALUE="47000" LOWBOUND="0" UPPERBOUND="51700" PRODUCT_ID="d123f8e7-02aa-448c-91dc-025049586b1d"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.405.61 (500х225х150)" PLAN_VALUE="51000" LOWBOUND="0" UPPERBOUND="56100" PRODUCT_ID="b1ce3565-74dc-4406-b2e6-c46ef7fbd298"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.406.61 (500х300х200)" PLAN_VALUE="12000" LOWBOUND="0" UPPERBOUND="13200" PRODUCT_ID="9ae0bd7c-fba3-4132-97e9-289e4c951c58"/>
+<I PRODUCT_NAME="Ящик полимерный многооборотный 12.407.61 (500х300х250)" PLAN_VALUE="18000" LOWBOUND="0" UPPERBOUND="19800" PRODUCT_ID="578f2f3d-fba3-464e-859c-f2cf3ebc5427"/>
+<I PRODUCT_NAME="Ящик полимерный многоборотный KLT 12.501.61 (R-KLT 3215)" PLAN_VALUE="15000" LOWBOUND="0" UPPERBOUND="16500" PRODUCT_ID="686f9a1e-a884-4f95-a894-26157fc389bc"/>
+<I PRODUCT_NAME="Ящик полимерный многоборотный KLT 12.502.61 (R-KLT 4315)" PLAN_VALUE="16000" LOWBOUND="0" UPPERBOUND="17600" PRODUCT_ID="7683f3e5-b2db-4802-af55-d52118c272a8"/>
+</B>
+</Body>
+</Grid>

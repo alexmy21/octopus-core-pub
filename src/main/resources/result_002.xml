@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!--
+Copyright (C) 2013 Lisa Park, Inc. (www.lisa-park.net)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<Grid>
+    <Body>
+        <B>
+            <I PRODUCT_ID="prod2" PRODUCT_NAME="Поддон полимерный" COST_PER_UNIT="12" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 650" FIXED="0" 
+               MACHINE_ID="machine3" MACHINE_RESOURCE_PER_PRODUCT_UNIT="15" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="1" 
+               PROD_VALUE="132" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="14" DELETED="No"/>
+            <I PRODUCT_ID="prod2" PRODUCT_NAME="Поддон полимерный" COST_PER_UNIT="10" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА KM 2000 IMC" FIXED="0" 
+               MACHINE_ID="machine2" MACHINE_RESOURCE_PER_PRODUCT_UNIT="10" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="1" 
+               PROD_VALUE="34" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="12" DELETED="No"/>
+            <I PRODUCT_ID="prod1" PRODUCT_NAME="Крышка полимерного контейнера" COST_PER_UNIT="10" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА KM 2000 IMC" FIXED="0" 
+               MACHINE_ID="machine2" MACHINE_RESOURCE_PER_PRODUCT_UNIT="11" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="1" 
+               PROD_VALUE="159" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="12" DELETED="No"/>
+            <I PRODUCT_ID="prod3" PRODUCT_NAME="Ящик полимерный многооборотный" COST_PER_UNIT="11" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА KM 2000 IMC" FIXED="0" 
+               MACHINE_ID="machine2" MACHINE_RESOURCE_PER_PRODUCT_UNIT="11" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="1" 
+               PROD_VALUE="34" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="13" DELETED="No"/>
+            <I PRODUCT_ID="prod3" PRODUCT_NAME="Ящик полимерный многооборотный" COST_PER_UNIT="10" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 650" FIXED="0" 
+               MACHINE_ID="machine3" MACHINE_RESOURCE_PER_PRODUCT_UNIT="12" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="1" 
+               PROD_VALUE="110" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="12" DELETED="No"/>
+            <I PRODUCT_ID="prod1" PRODUCT_NAME="Крышка полимерного контейнера" COST_PER_UNIT="11" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 2700" FIXED="0" 
+               MACHINE_ID="machine1" MACHINE_RESOURCE_PER_PRODUCT_UNIT="15" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="86" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="13" DELETED="No"/>
+            <I PRODUCT_ID="prod1" PRODUCT_NAME="Крышка полимерного контейнера" COST_PER_UNIT="12" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 650" FIXED="0" 
+               MACHINE_ID="machine3" MACHINE_RESOURCE_PER_PRODUCT_UNIT="17" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="27" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="14" DELETED="No"/>
+            <I PRODUCT_ID="prod3" PRODUCT_NAME="Ящик полимерный многооборотный" COST_PER_UNIT="9" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 2700" FIXED="0" 
+               MACHINE_ID="machine1" MACHINE_RESOURCE_PER_PRODUCT_UNIT="11" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="28" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="11" DELETED="No"/>
+            <I PRODUCT_ID="prod3" PRODUCT_NAME="Ящик полимерный многооборотный" COST_PER_UNIT="12" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА KM 2000 IMC" FIXED="0" 
+               MACHINE_ID="machine2" MACHINE_RESOURCE_PER_PRODUCT_UNIT="18" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="77" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="14" DELETED="No"/>
+            <I PRODUCT_ID="prod1" PRODUCT_NAME="Крышка полимерного контейнера" COST_PER_UNIT="9" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА KM 2000 IMC" FIXED="0" 
+               MACHINE_ID="machine2" MACHINE_RESOURCE_PER_PRODUCT_UNIT="11" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="3" 
+               PROD_VALUE="16" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="11" DELETED="No"/>
+            <I PRODUCT_ID="prod1" PRODUCT_NAME="Крышка полимерного контейнера" COST_PER_UNIT="12" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 650" FIXED="0" 
+               MACHINE_ID="machine3" MACHINE_RESOURCE_PER_PRODUCT_UNIT="13" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="3" 
+               PROD_VALUE="121" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="14" DELETED="No"/>
+            <I PRODUCT_ID="prod2" PRODUCT_NAME="Поддон полимерный" COST_PER_UNIT="12" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 2700" FIXED="0" 
+               MACHINE_ID="machine1" MACHINE_RESOURCE_PER_PRODUCT_UNIT="15" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="136" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="14" DELETED="No"/>
+            <I PRODUCT_ID="prod2" PRODUCT_NAME="Поддон полимерный" COST_PER_UNIT="11" TECHNOLOGY_STEP="" MACHINE_NAME_FULL="ТПА Husky 650" FIXED="0" 
+               MACHINE_ID="machine3" MACHINE_RESOURCE_PER_PRODUCT_UNIT="14" MAX_UNIT_VALUME="" 
+               TECHNOLOGY_STEP_NUMBER="2" 
+               PROD_VALUE="20" MIN_UNIT_VALUME="" UNIT_ABS_VALUME="13" DELETED="No"/>
+        </B>
+    </Body>
+</Grid>

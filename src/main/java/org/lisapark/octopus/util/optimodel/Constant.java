@@ -1,0 +1,67 @@
+/* 
+ * Copyright (C) 2013 Lisa Park, Inc. (www.lisa-park.net)
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package org.lisapark.octopus.util.optimodel;
+
+/**
+ *
+ * @author Alex Mylnikov (alexmy@lisa-park.com)
+ */
+public class Constant {
+
+    String name;
+    Integer value;
+    Integer lowBound;
+    Integer upperBound;
+
+    public void setValue(Integer value) {
+        this.value = value;
+    }
+
+    public Integer getValue() {
+        return value;
+    }
+
+    public void setLowBound(Integer lowBound) {
+        this.lowBound = lowBound;
+    }
+
+    public Integer getLowBound() {
+        return lowBound;
+    }
+
+    public void setUpperBound(Integer upperBound) {
+        this.upperBound = upperBound;
+    }
+
+    public Integer getUpperBound() {
+        return upperBound;
+    }
+
+    /**
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
+    }
+}

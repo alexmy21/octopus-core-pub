@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2013 Lisa Park, Inc. (www.lisa-park.net)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<Grid>
+<Body>
+<B>
+<I MACHINE_NAME_FULL="ТПА Haitian 600" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb724a-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="Сборка поддонов" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7434-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Haitian 2400" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7510-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Engel 1000" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb75d8-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Engel 2300" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb76a0-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Haitian 320" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb775e-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Husky 2000" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb781c-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Husky 2700" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb78da-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА Husky 650" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7998-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА KM 1600" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7a56-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА KM 2000" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7b28-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА KM 2000 IMC" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7bf0-ecfa-11e1-99ca-643150325ac9"/>
+<I MACHINE_NAME_FULL="ТПА KM 3200" RESOURCE_VALUE="170" LOWBOUND="160" UPPERBOUND="170" MACHINE_ID="36fb7cae-ecfa-11e1-99ca-643150325ac9"/>
+</B>
+</Body>
+</Grid>
